@@ -1,7 +1,0 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
-User-agent: *
-Allow: /
-
-Sitemap: https://generous-glaring-pheasant-8e65gf.teleporthq.app/sitemap.xml
